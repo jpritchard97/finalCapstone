@@ -1,6 +1,23 @@
 				## Sentiment Analysis Report 
 												
-(img)
+1. [Introduction]
+2. [Methodology]
+   3. [Preprocessing Steps]
+   4. [Sentiment Analysis Approach]
+5. [Implementation]
+   6. [Importing Necessary Libraries]
+   7. [Loading the Dataset]
+   8. [Functions for Sentiment Analysis]
+9. [Results and Evaluation]
+   10. [Dataset Sentiment Analysis]
+   11. [Testing Statements Sentiment Analysis]
+12. [Insights and Recommendations]
+   13. [Model's Strengths]
+   14. [Model's Limitations]
+   15. [Recommendations for Improvement]
+16. [Conclusion]
+
+    
 ## 1. Introduction
 
 ### 1.1 Background
