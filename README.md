@@ -19,6 +19,12 @@
 
     
 ## 1. Introduction
+In your environments terminal type:
+
+pip3 install spacy
+pip3 install pandas
+pip3 install numpy
+pip3 install textblob
 
 ### 1.1 Background
    - Sentiment analysis, also known as opinion mining, is the process of analysing text to determine the sentiment expressed within it. It is widely used in various fields, including marketing, customer feedback analysis, and social media monitoring, to understand public opinion and sentiment towards products, services, or topics.
